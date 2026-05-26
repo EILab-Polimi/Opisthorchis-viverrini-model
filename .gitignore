@@ -1,0 +1,7 @@
+.DS_Store
+Results/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+
