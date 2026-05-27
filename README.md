@@ -10,10 +10,6 @@ The *Opisthorchis viverrini* spatially explicit model is based on the framework 
 
 The outputs generated from the numerical solution of the differential equations are automatically saved in the `Results/` folder (mostly in `.joblib` format). These outputs are then used to reproduce the figures presented in the manuscript.
 
-If you prefer to generate the figures directly without running the simulations, the complete simulation outputs can be downloaded from the associated Zenodo repository:
-
-**Zenodo DOI: 10.5281/zenodo.20392406**
-
 ---
 
 ## Repository structure
